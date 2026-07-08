@@ -20,6 +20,8 @@
   },
   "homepage": "https://github.com/slesbros/mdns-Server-base#readme",
   "dependencies": {
-    "express": "^5.2.1"
+    "express": "^5.2.1",
+    "multicast-dns": "^7.2.5",
+    "os": "^0.1.2"
   }
 }
